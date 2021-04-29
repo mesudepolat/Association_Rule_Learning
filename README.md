@@ -7,6 +7,9 @@
 * The main objective is to find and propose a general recommendation product on the basis of segment and country.
 
 
+## Apriori Algorithm
+
+
 ## Project Steps
 
 1. Business Problem

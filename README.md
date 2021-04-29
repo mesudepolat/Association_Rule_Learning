@@ -14,3 +14,5 @@
 2. Data Understanding
 
 3. Data Preparation
+
+4. Creating the Invoice product (basket product) matrix

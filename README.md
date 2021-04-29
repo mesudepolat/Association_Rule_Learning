@@ -18,3 +18,6 @@
 4. Creating the Invoice product (basket product) matrix
 
 5. Creating Association Rules
+
+
+## Dataset Information

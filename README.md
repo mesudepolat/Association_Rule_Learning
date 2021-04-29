@@ -16,3 +16,5 @@
 3. Data Preparation
 
 4. Creating the Invoice product (basket product) matrix
+
+5. Creating Association Rules

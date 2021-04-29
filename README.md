@@ -7,8 +7,11 @@
 * The main objective is to find and propose a general recommendation product on the basis of segment and country.
 
 
+
 ## Apriori Algorithm
+
 Apriori Algorithm is a Machine Learning algorithm that is used to gain insight into the structured relationships between different items involved. It’s a data mining technique that is used for mining frequent itemsets and relevant association rules.
+
 
 
 ## Project Steps
@@ -20,6 +23,7 @@ Apriori Algorithm is a Machine Learning algorithm that is used to gain insight i
 3. Data Preparation
 
 5. Creating Association Rules
+
 
 
 ## Dataset Information
